@@ -2,8 +2,8 @@
  ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  ## Equipment Required:
-        Hardware pc software
-        Visual Studio.
+ ### Hardware pc software
+ ### Visual Studio
 
  ## Algorithm:
 ### Step1:
